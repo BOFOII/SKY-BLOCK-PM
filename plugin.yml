@@ -1,0 +1,14 @@
+---
+name: SkyBlock
+version: 0.0.1
+main: ZAlpha\SkyBlock\SkyBlock
+api: 4.0.0-BETA3
+authors:
+    - ZAlpha
+    - andresbytes
+src-namespace-prefix: ZAlpha\SkyBlock
+
+permissions:
+    skyblock.interaction:
+    default: op
+...
